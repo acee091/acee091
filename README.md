@@ -2,6 +2,7 @@
 Welcome to my **GitHub Profile**!
 
 I'm currently studying computer Science and learning the following languages:
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=acee091&layout=compact&theme=default)
 
 <div>
