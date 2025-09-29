@@ -1,6 +1,6 @@
 ## Hello!
 
-<p>🚀Welcome to my GitHub Profile!</p>
+<p>🚀 Welcome to my GitHub Profile!</p>
 
 <p>I'm currently studying computer Science and learning the following tools: </p>
 <h1>Languages:</h1>  
