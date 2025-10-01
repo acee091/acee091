@@ -9,7 +9,7 @@
 <h1>Databases</h1>  
 <img src="https://skillicons.dev/icons?i=mysql,mssql" width="100"/>  
 
-<h1>Software/Design</h1>  
+<h1>Software/ Design</h1>  
 <img src="https://skillicons.dev/icons?i=windows,linux,figma" width="150"/>  
 <br>
   <br>
